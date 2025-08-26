@@ -336,7 +336,8 @@ nav .right a {
 }
 
 nav a span {
-  display: none;
+ font-family: 'dinglie',宋体;
+ font-size: 10px;
 }
 
 .greetings .text {
