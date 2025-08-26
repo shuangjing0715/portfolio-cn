@@ -337,17 +337,13 @@ nav .right a {
 
 nav a span {
  font-family: 'dinglie',宋体;
- font-size: 10px;
+ font-size: 12px;
 }
 
 .greetings .text {
   font-family: 'dinglie',sarif;
   margin: 80px 10px 50px 10px;
   font-size: 14px;
-}
-
-.greetings svg {
-   display: none;
 }
 
 .menu a {
